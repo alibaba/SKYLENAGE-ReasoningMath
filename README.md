@@ -19,3 +19,23 @@ The core objective is to address limitations of mainstream benchmarks—overweig
 
 ● Spatial reasoning. These tasks rely on internal representations of two‑ and three‑dimensional (2D/3D) structures; presenting them in a text‑only format requires large models to carry out complex spatial reasoning and problem‑solving.
 
+评测榜单：
+
+| 模型名称                       | 准确率    |
+|-------------------------------|----------|
+| GPT-5-20250807                | 81       |
+| Qwen3-235B-A22B-2507          | 79       |
+| Grok-4-0709                   | 75       |
+| GPT-oss-120b                  | 69       |
+| Gemini2.5-Pro-0617            | 69       |
+| GPT-5 mini                    | 68       |
+| DeepSeek-V3.1                 | 68       |
+| DeepSeek-R1-0528              | 67       |
+| GPT-5-Chat-0807               | 65       |
+| DeepSeek-V3-0324              | 64       |
+| Gemini2.5-flash-0617          | 63       |
+| Kimi-k2-Turbo                 | 60       |
+| GLM-4.5                       | 56       |
+| Llama 4 Maverick              | 45       |
+| Ernie-4.5-424B-A47B           | 42       |
+
