@@ -10,7 +10,7 @@ SKYLENAGE-ReasoningMath（推理数学评测集）覆盖从基础算术到高等
 
 ReasoningMath.json为数据文件，总计开源100道题，包括了序号，难度，学科分类，题目，最终解答。
 
-部分题目附录.xlsx为部分题目解答附录，总计开源30道题，包括了序号，思维链分析标准，解题分析标准。
+Selected Problem Appendix.xlsx为部分题目解答附录，总计开源30道题，包括了序号，思维链分析标准，解题分析标准。
 
 SKYLENAGE Technical Report.pdf为技术报告。
 
