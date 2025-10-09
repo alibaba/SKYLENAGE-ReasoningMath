@@ -2,6 +2,7 @@
 
 [![魔搭社区](https://img.shields.io/badge/ModeScope-🏠-blue.svg)](https://modelscope.cn/datasets/Alibaba-DT/SKYLENAGE-ReasoningMATH)
 [![Dataset-HF](https://img.shields.io/badge/Data-Huggingface-orange.svg)](https://huggingface.co/datasets/alibabagroup/SKYLENAGE-ReasoningMath) 
+[![Paper](https://img.shields.io/badge/Paper-📄-b31b1b.svg)](https://arxiv.org/abs/2510.01241) 
 
 # I. 基准介绍
 SKYLENAGE-ReasoningMath（推理数学评测集）覆盖从基础算术到高等数学的多层次推理任务，涵盖逻辑推导、代数变换、几何分析、概率统计等多个维度，旨在评估模型在结构化数学问题中的理解、推理与解答能力。数据集设计注重问题难度分级与认知层次划分，支持细粒度的能力评估。
